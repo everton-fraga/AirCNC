@@ -12,6 +12,7 @@ body,
 #root {
   min-height: 100%;
 }
+
 body {
   background: #000 url("./assets/background.jpg") no-repeat;
   background-size: cover;
